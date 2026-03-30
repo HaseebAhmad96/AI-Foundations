@@ -1,0 +1,77 @@
+[
+  {
+    "order_id": "ORD-001",
+    "customer": {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890"
+    },
+    "items": [
+      {
+        "product": {
+          "product_id": "PROD-001",
+          "name": "Wireless Headphones",
+          "price": 59.99
+        },
+        "quantity": 2,
+        "line_total": 119.98
+      },
+      {
+        "product": {
+          "product_id": "PROD-002",
+          "name": "Phone Case",
+          "price": 15.0
+        },
+        "quantity": 1,
+        "line_total": 15.0
+      }
+    ],
+    "status": "pending",
+    "total": 134.98,
+    "total_with_tax": 148.48
+  },
+  {
+    "order_id": "ORD-002",
+    "customer": {
+      "name": "Alice Smith",
+      "email": "alice.smith@gmail.com",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": {
+          "product_id": "PROD-003",
+          "name": "Usb-C Cable",
+          "price": 12.5
+        },
+        "quantity": 3,
+        "line_total": 37.5
+      }
+    ],
+    "status": "confirmed",
+    "total": 37.5,
+    "total_with_tax": 41.25
+  },
+  {
+    "order_id": "ORD-003",
+    "customer": {
+      "name": "Bob Martin",
+      "email": "bob.martin@company.org",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": {
+          "product_id": "PROD-004",
+          "name": "Mechanical Keyboard",
+          "price": 120.0
+        },
+        "quantity": 1,
+        "line_total": 120.0
+      }
+    ],
+    "status": "delivered",
+    "total": 120.0,
+    "total_with_tax": 132.0
+  }
+]

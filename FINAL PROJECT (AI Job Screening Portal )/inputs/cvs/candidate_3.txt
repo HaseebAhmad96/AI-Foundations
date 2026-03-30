@@ -1,0 +1,17 @@
+Name: Ali Hassan
+Email: ali.hassan@yahoo.com
+
+Summary:
+Fresh graduate with interest in web development. Completed several personal projects
+during university. Eager to learn and grow in a professional environment.
+
+Experience:
+- Intern at SmallAgency (3 months)
+  Built basic HTML/CSS landing pages
+  Some JavaScript work
+
+Skills:
+HTML, CSS, JavaScript, Python (basics), WordPress
+
+Education:
+BS Information Technology — Virtual University, 2024

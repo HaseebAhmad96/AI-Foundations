@@ -1,0 +1,22 @@
+Name: Maria Fatima
+Email: maria.fatima@protonmail.com
+Phone: +92-321-5556677
+
+Summary:
+Backend engineer with 5 years of experience in Python and cloud infrastructure.
+Recently working on LLM integrations and AI-powered APIs.
+
+Experience:
+- Backend Engineer at AIStartup (2 years)
+  Built LLM-powered REST APIs using FastAPI
+  Deployed services on GCP using Cloud Run and Docker
+  Integrated OpenAI and Groq APIs into production pipelines
+- Python Developer at WebTech (3 years)
+  Developed Django applications with PostgreSQL
+  Set up Redis for session management and caching
+
+Skills:
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, GCP, LLMs, LangChain, Git
+
+Education:
+MS Computer Science — LUMS, 2019

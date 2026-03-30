@@ -1,0 +1,16 @@
+Junior Data Analyst — DataBridge Solutions
+
+We are looking for a Junior Data Analyst to support our analytics team.
+
+You will work with:
+- Python (pandas, numpy)
+- SQL and Excel
+- Tableau for dashboards
+
+Requirements:
+- 1-2 years of experience in a data role
+- Familiarity with data cleaning and reporting
+
+Compensation: $55,000 - $70,000 annually
+Work Setup: Hybrid (3 days in office)
+Level: Junior

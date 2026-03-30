@@ -1,0 +1,23 @@
+Job Title: Senior Python Backend Engineer
+
+Company: TechNova Inc.
+
+About the Role:
+We are looking for a Senior Python Backend Engineer to join our platform team.
+You will design and maintain scalable APIs, work with cloud infrastructure, and
+mentor junior developers.
+
+Requirements:
+- 4+ years of experience in Python backend development
+- Strong knowledge of FastAPI or Django
+- Experience with PostgreSQL and Redis
+- Familiarity with Docker and Kubernetes
+- Experience with AWS or GCP
+- Strong communication and teamwork skills
+
+Nice to Have:
+- Experience with LLMs or AI integrations
+- Open source contributions
+
+Employment Type: Full-time, Remote
+Salary: $110,000 - $140,000

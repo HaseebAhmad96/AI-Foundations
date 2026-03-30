@@ -1,0 +1,17 @@
+Company: TechNova Inc.
+
+We are hiring a Senior Backend Engineer to join our growing platform team.
+
+Responsibilities:
+- Design and maintain scalable REST APIs
+- Work with PostgreSQL and Redis
+- Collaborate with frontend and DevOps teams
+
+Requirements:
+- 5+ years of experience with Python and FastAPI
+- Strong knowledge of Docker and Kubernetes
+- Experience with AWS or GCP
+
+Salary: $120,000 - $150,000 per year
+Location: Remote (US only)
+Experience Level: Senior

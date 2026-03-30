@@ -1,0 +1,15 @@
+Frontend Developer — Mid Level
+Orion Digital Agency
+
+About the role:
+We need a mid-level frontend developer who can build responsive web apps.
+
+Skills required:
+- React and TypeScript
+- CSS / Tailwind
+- REST API integration
+- Git and CI/CD basics
+
+Experience: 3-5 years
+Salary Range: $85,000 to $105,000
+Remote: Yes, fully remote

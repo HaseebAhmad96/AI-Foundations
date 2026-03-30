@@ -1,0 +1,19 @@
+Name: Sara Khan
+Email: sara.khan@outlook.com
+Phone: +92-333-9876543
+
+Summary:
+Python developer with 3 years of experience mostly in data engineering and scripting.
+Looking to transition into backend web development.
+
+Experience:
+- Python Developer at DataWorks (3 years)
+  Built ETL pipelines using Python and Pandas
+  Worked with PostgreSQL databases
+  Some exposure to Flask for internal tools
+
+Skills:
+Python, Flask, PostgreSQL, Pandas, NumPy, SQL, Git, Linux
+
+Education:
+BS Software Engineering — NUST, 2021

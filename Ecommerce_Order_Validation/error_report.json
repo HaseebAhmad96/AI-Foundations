@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": "ORD-004",
+    "errors": [
+      {
+        "field": "customer -> email",
+        "reason": "value is not a valid email address: An email address must have an @-sign."
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-005",
+    "errors": [
+      {
+        "field": "items -> 0 -> product -> price",
+        "reason": "Input should be greater than 0"
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-006",
+    "errors": [
+      {
+        "field": "",
+        "reason": "Value error, Total mismatch: provided 999.0, calculated 22.0"
+      }
+    ]
+  }
+]

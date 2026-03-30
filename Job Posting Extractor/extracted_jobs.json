@@ -1,0 +1,50 @@
+[
+  {
+    "job_title": "Senior Backend Engineer",
+    "company": "TechNova Inc.",
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "experience_level": "Senior",
+    "salary_min": 120000.0,
+    "salary_max": 150000.0,
+    "is_remote": true
+  },
+  {
+    "job_title": "Junior Data Analyst",
+    "company": "DataBridge Solutions",
+    "required_skills": [
+      "Python",
+      "pandas",
+      "numpy",
+      "SQL",
+      "Excel",
+      "Tableau"
+    ],
+    "experience_level": "Junior",
+    "salary_min": 55000.0,
+    "salary_max": 70000.0,
+    "is_remote": false
+  },
+  {
+    "job_title": "Frontend Developer",
+    "company": "Orion Digital Agency",
+    "required_skills": [
+      "React and TypeScript",
+      "CSS / Tailwind",
+      "REST API integration",
+      "Git and CI/CD basics"
+    ],
+    "experience_level": "Mid",
+    "salary_min": 85000.0,
+    "salary_max": 105000.0,
+    "is_remote": true
+  }
+]

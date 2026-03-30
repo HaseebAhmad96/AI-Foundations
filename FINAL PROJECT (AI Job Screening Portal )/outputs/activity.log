@@ -1,0 +1,80 @@
+2026-03-30 23:43:19,792  INFO  ==================================================
+2026-03-30 23:43:19,793  INFO  AI Job Screening Portal — Starting
+2026-03-30 23:43:19,793  INFO  ==================================================
+2026-03-30 23:43:19,793  INFO  Job Title: Senior Python Backend Engineer
+2026-03-30 23:43:19,822  INFO  Found 4 CV(s) to process
+2026-03-30 23:43:19,822  INFO  Running parallel CV processing...
+2026-03-30 23:45:43,066  INFO  ==================================================
+2026-03-30 23:45:43,066  INFO  AI Job Screening Portal — Starting
+2026-03-30 23:45:43,066  INFO  ==================================================
+2026-03-30 23:45:43,066  INFO  Job Title: Senior Python Backend Engineer
+2026-03-30 23:45:43,072  INFO  Found 4 CV(s) to process
+2026-03-30 23:45:43,072  DEBUG  Running safety check...
+2026-03-30 23:47:18,307  INFO  ==================================================
+2026-03-30 23:47:18,307  INFO  AI Job Screening Portal — Starting
+2026-03-30 23:47:18,307  INFO  ==================================================
+2026-03-30 23:47:18,310  INFO  Job Title: Senior Python Backend Engineer
+2026-03-30 23:47:18,311  INFO  Found 4 CV(s) to process
+2026-03-30 23:47:18,311  DEBUG  Running safety check...
+2026-03-30 23:47:18,573  DEBUG  Safety result: SAFE
+2026-03-30 23:47:18,573  INFO  Extracting profile from: candidate_1.txt
+2026-03-30 23:47:19,285  INFO  Extracted: Ahmed Raza
+2026-03-30 23:47:19,292  INFO  Ranking candidate: Ahmed Raza
+2026-03-30 23:47:19,452  ERROR  Ranking failed for Ahmed Raza: Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-03-30 23:47:19,452  DEBUG  Running safety check...
+2026-03-30 23:47:19,560  DEBUG  Safety result: SAFE
+2026-03-30 23:47:19,560  INFO  Extracting profile from: candidate_2.txt
+2026-03-30 23:47:20,225  INFO  Extracted: Sara Khan
+2026-03-30 23:47:20,225  INFO  Ranking candidate: Sara Khan
+2026-03-30 23:47:20,315  ERROR  Ranking failed for Sara Khan: Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-03-30 23:47:20,316  DEBUG  Running safety check...
+2026-03-30 23:47:20,421  DEBUG  Safety result: SAFE
+2026-03-30 23:47:20,422  INFO  Extracting profile from: candidate_3.txt
+2026-03-30 23:47:21,025  INFO  Extracted: Ali Hassan
+2026-03-30 23:47:21,025  INFO  Ranking candidate: Ali Hassan
+2026-03-30 23:47:21,115  ERROR  Ranking failed for Ali Hassan: Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-03-30 23:47:21,115  DEBUG  Running safety check...
+2026-03-30 23:47:21,310  DEBUG  Safety result: SAFE
+2026-03-30 23:47:21,310  INFO  Extracting profile from: candidate_4.txt
+2026-03-30 23:47:21,933  INFO  Extracted: Maria Fatima
+2026-03-30 23:47:21,934  INFO  Ranking candidate: Maria Fatima
+2026-03-30 23:47:22,007  ERROR  Ranking failed for Maria Fatima: Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-03-30 23:47:22,007  ERROR  No candidates were successfully processed.
+2026-03-30 23:48:32,069  INFO  ==================================================
+2026-03-30 23:48:32,071  INFO  AI Job Screening Portal — Starting
+2026-03-30 23:48:32,071  INFO  ==================================================
+2026-03-30 23:48:32,071  INFO  Job Title: Senior Python Backend Engineer
+2026-03-30 23:48:32,071  INFO  Found 4 CV(s) to process
+2026-03-30 23:48:32,071  DEBUG  Running safety check...
+2026-03-30 23:48:32,322  DEBUG  Safety result: SAFE
+2026-03-30 23:48:32,322  INFO  Extracting profile from: candidate_1.txt
+2026-03-30 23:48:32,966  INFO  Extracted: Ahmed Raza
+2026-03-30 23:48:32,967  INFO  Ranking candidate: Ahmed Raza
+2026-03-30 23:48:33,311  INFO  Score for Ahmed Raza: 8.0 — Strong Match
+2026-03-30 23:48:33,311  DEBUG  Running safety check...
+2026-03-30 23:48:33,422  DEBUG  Safety result: SAFE
+2026-03-30 23:48:33,422  INFO  Extracting profile from: candidate_2.txt
+2026-03-30 23:48:33,846  INFO  Extracted: Sara Khan
+2026-03-30 23:48:33,846  INFO  Ranking candidate: Sara Khan
+2026-03-30 23:48:34,240  INFO  Score for Sara Khan: 6.0 — Moderate Match
+2026-03-30 23:48:34,241  DEBUG  Running safety check...
+2026-03-30 23:48:34,362  DEBUG  Safety result: SAFE
+2026-03-30 23:48:34,363  INFO  Extracting profile from: candidate_3.txt
+2026-03-30 23:48:34,993  INFO  Extracted: Ali Hassan
+2026-03-30 23:48:34,993  INFO  Ranking candidate: Ali Hassan
+2026-03-30 23:48:35,331  INFO  Score for Ali Hassan: 2.0 — Weak Match
+2026-03-30 23:48:35,331  DEBUG  Running safety check...
+2026-03-30 23:48:35,482  DEBUG  Safety result: SAFE
+2026-03-30 23:48:35,482  INFO  Extracting profile from: candidate_4.txt
+2026-03-30 23:48:36,118  INFO  Extracted: Maria Fatima
+2026-03-30 23:48:36,118  INFO  Ranking candidate: Maria Fatima
+2026-03-30 23:48:36,462  INFO  Score for Maria Fatima: 8.0 — Strong Match
+2026-03-30 23:48:36,464  INFO  Report saved to: c:\Users\THINKPAD\Desktop\AI Foundations\FINAL PROJECT (AI Job Screening Portal )\outputs\shortlist_report_20260330_234836.txt
+2026-03-30 23:48:36,471  INFO  JSON report saved to: c:\Users\THINKPAD\Desktop\AI Foundations\FINAL PROJECT (AI Job Screening Portal )\outputs\shortlist_report_20260330_234836.json
+2026-03-30 23:48:36,471  INFO  ==================================================
+2026-03-30 23:48:36,471  INFO  Screening complete.
+2026-03-30 23:48:36,471  INFO  Screened   : 4
+2026-03-30 23:48:36,471  INFO  Shortlisted: 2
+2026-03-30 23:48:36,472  INFO  Avg Score  : 6.0 / 10
+2026-03-30 23:48:36,472  INFO  Report     : c:\Users\THINKPAD\Desktop\AI Foundations\FINAL PROJECT (AI Job Screening Portal )\outputs\shortlist_report_20260330_234836.txt
+2026-03-30 23:48:36,472  INFO  ==================================================

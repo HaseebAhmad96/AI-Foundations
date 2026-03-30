@@ -1,0 +1,166 @@
+{
+  "job_title": "Senior Python Backend Engineer",
+  "generated_at": "2026-03-30 23:48:36",
+  "total_screened": 4,
+  "total_shortlisted": 2,
+  "candidates": [
+    {
+      "profile": {
+        "full_name": "Ahmed Raza",
+        "email": "ahmed.raza@gmail.com",
+        "phone": "+92-300-1234567",
+        "total_experience": 6.0,
+        "skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Git",
+          "CI/CD"
+        ],
+        "education": "BS Computer Science — FAST University, 2018",
+        "current_role": "Senior Backend Engineer",
+        "summary": "Senior backend engineer with 6 years of experience building scalable Python services. Passionate about clean architecture and cloud-native solutions."
+      },
+      "score": 8.0,
+      "reasoning": "Ahmed Raza's profile matches most of the job requirements, including 6 years of experience in Python backend development, strong knowledge of FastAPI and Django, experience with PostgreSQL and Redis, familiarity with Docker and Kubernetes, and experience with AWS. However, he lacks experience with GCP, which is a requirement. Additionally, while he has strong communication and teamwork skills, they are not explicitly mentioned in his profile. Overall, Ahmed Raza's skills and experience make him a strong candidate, but he falls short in one key area.",
+      "shortlisted": true,
+      "score_label": "Strong Match"
+    },
+    {
+      "profile": {
+        "full_name": "Sara Khan",
+        "email": "sara.khan@outlook.com",
+        "phone": "+92-333-9876543",
+        "total_experience": 3.0,
+        "skills": [
+          "Python",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "NumPy",
+          "SQL",
+          "Git",
+          "Linux"
+        ],
+        "education": "BS Software Engineering — NUST, 2021",
+        "current_role": "Python Developer at DataWorks",
+        "summary": "Python developer with 3 years of experience mostly in data engineering and scripting. Looking to transition into backend web development."
+      },
+      "score": 6.0,
+      "reasoning": "Sara Khan has some matching skills, including Python, PostgreSQL, and Git, which are relevant to the Senior Python Backend Engineer role. However, she lacks experience with FastAPI or Django, Docker and Kubernetes, and cloud infrastructure (AWS or GCP), which are critical requirements for the position. Additionally, her 3 years of experience is below the 4-year requirement, and her current role is focused on data engineering and scripting rather than backend web development. While she has strong communication and teamwork skills, her lack of experience in key areas and her limited experience in backend development hold her back from being a strong candidate for the role.",
+      "shortlisted": false,
+      "score_label": "Moderate Match"
+    },
+    {
+      "profile": {
+        "full_name": "Ali Hassan",
+        "email": "ali.hassan@yahoo.com",
+        "phone": null,
+        "total_experience": 0.25,
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python",
+          "WordPress"
+        ],
+        "education": "BS Information Technology — Virtual University, 2024",
+        "current_role": null,
+        "summary": "Fresh graduate with interest in web development. Completed several personal projects during university. Eager to learn and grow in a professional environment."
+      },
+      "score": 2.0,
+      "reasoning": "Ali Hassan's profile shows potential, but he lacks significant experience and relevant skills for the Senior Python Backend Engineer role. He has some basic programming skills, including Python, but his experience is limited to 0.25 years, and he doesn't have any professional experience. He also doesn't have the required skills for the position, such as strong knowledge of FastAPI or Django, experience with PostgreSQL and Redis, familiarity with Docker and Kubernetes, and experience with AWS or GCP. While he has a strong educational background, his profile is not a good fit for the Senior Python Backend Engineer role at TechNova Inc.",
+      "shortlisted": false,
+      "score_label": "Weak Match"
+    },
+    {
+      "profile": {
+        "full_name": "Maria Fatima",
+        "email": "maria.fatima@protonmail.com",
+        "phone": "+92-321-5556677",
+        "total_experience": 5.0,
+        "skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "GCP",
+          "LLMs",
+          "LangChain",
+          "Git"
+        ],
+        "education": "MS Computer Science — LUMS, 2019",
+        "current_role": "Backend Engineer at AIStartup",
+        "summary": "Backend engineer with 5 years of experience in Python and cloud infrastructure. Recently working on LLM integrations and AI-powered APIs."
+      },
+      "score": 8.0,
+      "reasoning": "Maria Fatima's profile matches most of the job requirements, including 5 years of experience in Python backend development, strong knowledge of FastAPI, experience with PostgreSQL and Redis, familiarity with Docker and Kubernetes, and experience with GCP. She also has experience with LLMs, which is a nice-to-have skill. However, she lacks experience with AWS, which is a requirement. Additionally, while she has strong communication and teamwork skills, this is not explicitly stated in her profile. Overall, Maria Fatima's profile is a strong match for the job, but she falls short on one key requirement.",
+      "shortlisted": true,
+      "score_label": "Strong Match"
+    }
+  ],
+  "shortlisted_candidates": [
+    {
+      "profile": {
+        "full_name": "Ahmed Raza",
+        "email": "ahmed.raza@gmail.com",
+        "phone": "+92-300-1234567",
+        "total_experience": 6.0,
+        "skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Git",
+          "CI/CD"
+        ],
+        "education": "BS Computer Science — FAST University, 2018",
+        "current_role": "Senior Backend Engineer",
+        "summary": "Senior backend engineer with 6 years of experience building scalable Python services. Passionate about clean architecture and cloud-native solutions."
+      },
+      "score": 8.0,
+      "reasoning": "Ahmed Raza's profile matches most of the job requirements, including 6 years of experience in Python backend development, strong knowledge of FastAPI and Django, experience with PostgreSQL and Redis, familiarity with Docker and Kubernetes, and experience with AWS. However, he lacks experience with GCP, which is a requirement. Additionally, while he has strong communication and teamwork skills, they are not explicitly mentioned in his profile. Overall, Ahmed Raza's skills and experience make him a strong candidate, but he falls short in one key area.",
+      "shortlisted": true,
+      "score_label": "Strong Match"
+    },
+    {
+      "profile": {
+        "full_name": "Maria Fatima",
+        "email": "maria.fatima@protonmail.com",
+        "phone": "+92-321-5556677",
+        "total_experience": 5.0,
+        "skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "GCP",
+          "LLMs",
+          "LangChain",
+          "Git"
+        ],
+        "education": "MS Computer Science — LUMS, 2019",
+        "current_role": "Backend Engineer at AIStartup",
+        "summary": "Backend engineer with 5 years of experience in Python and cloud infrastructure. Recently working on LLM integrations and AI-powered APIs."
+      },
+      "score": 8.0,
+      "reasoning": "Maria Fatima's profile matches most of the job requirements, including 5 years of experience in Python backend development, strong knowledge of FastAPI, experience with PostgreSQL and Redis, familiarity with Docker and Kubernetes, and experience with GCP. She also has experience with LLMs, which is a nice-to-have skill. However, she lacks experience with AWS, which is a requirement. Additionally, while she has strong communication and teamwork skills, this is not explicitly stated in her profile. Overall, Maria Fatima's profile is a strong match for the job, but she falls short on one key requirement.",
+      "shortlisted": true,
+      "score_label": "Strong Match"
+    }
+  ],
+  "average_score": 6.0
+}

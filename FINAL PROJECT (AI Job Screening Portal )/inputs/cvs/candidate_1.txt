@@ -1,0 +1,24 @@
+Name: Ahmed Raza
+Email: ahmed.raza@gmail.com
+Phone: +92-300-1234567
+
+Summary:
+Senior backend engineer with 6 years of experience building scalable Python services.
+Passionate about clean architecture and cloud-native solutions.
+
+Experience:
+- Senior Backend Engineer at CloudSoft (3 years)
+  Built FastAPI microservices deployed on AWS ECS
+  Led a team of 4 junior developers
+- Backend Developer at DataPipe (3 years)
+  Developed REST APIs using Django and PostgreSQL
+  Integrated Redis caching layer reducing latency by 40%
+
+Skills:
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS, Git, CI/CD
+
+Education:
+BS Computer Science — FAST University, 2018
+
+Certifications:
+AWS Certified Developer

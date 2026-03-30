@@ -1,0 +1,107 @@
+[
+  {
+    "order_id": "ORD-001",
+    "customer": {
+      "name": "john doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890"
+    },
+    "items": [
+      {
+        "product": { "product_id": "PROD-001", "name": "wireless headphones", "price": 59.99 },
+        "quantity": 2
+      },
+      {
+        "product": { "product_id": "PROD-002", "name": "phone case", "price": 15.00 },
+        "quantity": 1
+      }
+    ],
+    "status": "pending",
+    "total": 134.98
+  },
+
+  {
+    "order_id": "ORD-002",
+    "customer": {
+      "name": "alice smith",
+      "email": "alice.smith@gmail.com",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": { "product_id": "PROD-003", "name": "usb-c cable", "price": 12.50 },
+        "quantity": 3
+      }
+    ],
+    "status": "confirmed",
+    "total": 37.50
+  },
+
+  {
+    "order_id": "ORD-003",
+    "customer": {
+      "name": "bob MARTIN",
+      "email": "bob.martin@company.org",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": { "product_id": "PROD-004", "name": "mechanical keyboard", "price": 120.00 },
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "total": 120.00
+  },
+
+  {
+    "order_id": "ORD-004",
+    "customer": {
+      "name": "sara khan",
+      "email": "INVALID-EMAIL-FORMAT",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": { "product_id": "PROD-005", "name": "notebook", "price": 8.00 },
+        "quantity": 5
+      }
+    ],
+    "status": "pending",
+    "total": 40.00
+  },
+
+  {
+    "order_id": "ORD-005",
+    "customer": {
+      "name": "mike lee",
+      "email": "mike.lee@webmail.com",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": { "product_id": "PROD-006", "name": "monitor stand", "price": -50.00 },
+        "quantity": 1
+      }
+    ],
+    "status": "pending",
+    "total": -50.00
+  },
+
+  {
+    "order_id": "ORD-006",
+    "customer": {
+      "name": "emily chen",
+      "email": "emily.chen@shop.net",
+      "phone": null
+    },
+    "items": [
+      {
+        "product": { "product_id": "PROD-007", "name": "laptop sleeve", "price": 22.00 },
+        "quantity": 1
+      }
+    ],
+    "status": "pending",
+    "total": 999.00
+  }
+]
